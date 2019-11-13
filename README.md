@@ -1,2 +1,2 @@
 # FIAR
-A Simple Five in a Row Program
+A Very Simple Five in a Row Program
